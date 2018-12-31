@@ -11,5 +11,9 @@ Using the latest version of Xcode, create an app that has one button. When the b
 
 # Your comments or assumptions
 - <add them here>
-Testing if the commit work
-
+<p align = "middle">
+<img src="HoustonWeather/Documentation/Background1.png" alt="Background1" width="350"/>
+<img src="HoustonWeather/Documentation/Background2.png" alt="Background2" width="350"/>
+</p>
+The finished app is in the HoustonWeather folder
+The app Utilizes OpenWeatherMap API, SwiftyJSON and Alamofire for networking

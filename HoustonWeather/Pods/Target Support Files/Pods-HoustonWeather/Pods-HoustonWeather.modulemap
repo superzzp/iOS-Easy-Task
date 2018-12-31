@@ -1,0 +1,6 @@
+framework module Pods_HoustonWeather {
+  umbrella header "Pods-HoustonWeather-umbrella.h"
+
+  export *
+  module * { export * }
+}
