@@ -16,4 +16,4 @@ Using the latest version of Xcode, create an app that has one button. When the b
 <img src="HoustonWeather/Documentation/Background2.png" alt="Background2" width="350"/>
 </p>
 The finished app is in the HoustonWeather folder. </br>
-The app Utilizes OpenWeatherMap API, SwiftyJSON and Alamofire for networking
+The app utilizes OpenWeatherMap API, SwiftyJSON and Alamofire for networking
