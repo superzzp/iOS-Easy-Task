@@ -29,6 +29,7 @@ class ViewController: UIViewController {
         getWeatherButton.layer.cornerRadius = 5
         getWeatherButton.layer.borderWidth = 1
         getWeatherButton.layer.borderColor = UIColor.white.cgColor
+        getWeatherButton.layer.backgroundColor = UIColor(red: 0, green: 253.0/255.0, blue: 1, alpha: 0.5).cgColor
         // Do any additional setup after loading the view, typically from a nib.
     }
     
